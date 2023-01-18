@@ -1,12 +1,14 @@
-import React from 'react'
+import React, {useState} from 'react';
 
-export default function Project() {
+export default function Project(props) {
   return (
-    <div>Project
-        <a>
-            <img src='#' alt='A picture of a project'></img>
-            <p>Project Name</p>
-        </a>
+    <div>
+      <a href='#'>
+        <img src='#' alt='Project image'/>
+        <p>{props.title}</p>
+
+     </a>
+     <a href='#'>Github</a>
     </div>
   )
 }
