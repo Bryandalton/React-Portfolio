@@ -17,7 +17,9 @@ N/A
 
 ## Usage
 
-![Portfolio-Screenshot](./react-portfolio/public/images/React-Portfolio-Screenshot.JPG)
+![Portfolio-Screenshot](./public/images/React-Portfolio-Screenshot.JPG)
+
+Live Link: https://bryandalton.github.io/React-Portfolio/
 
 ## Credits
 
