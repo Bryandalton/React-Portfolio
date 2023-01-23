@@ -21,6 +21,8 @@ N/A
 
 Live Link: https://bryandalton.github.io/React-Portfolio/
 
+Github: https://github.com/Bryandalton/React-Portfolio
+
 ## Credits
 
 Bryan Dalton
