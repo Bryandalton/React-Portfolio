@@ -4,7 +4,7 @@ export default function
 () {
   return (
     <div className='footer'>
-        <a href='#'>Github</a>
+        <a href='https://github.com/Bryandalton'>Github</a>
 
         <a href='#'>Linkedin</a>
         

@@ -1,0 +1,59 @@
+
+
+#root {
+  background-color: #4B4453;
+  color: white;
+  min-height: 100vh;
+
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns:33% 33%;
+    justify-content: space-around;
+    grid-gap: 4rem;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    margin-bottom: 6rem;
+  }
+
+  .project-grid a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .project-grid img {
+    width: 100%;
+  }
+
+  .footer{ 
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    background: #B0A8B9;
+    padding: 15px;
+  }
+
+  .footer a {
+    text-decoration: none;
+    color: white;
+    bottom: 0;
+  }
+
+  .nav-link {
+    color: white !important;
+  }
+
+  .active {
+    color: black !important;
+  }
+  .project {
+    text-align: center;
+  }
