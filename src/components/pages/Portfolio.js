@@ -9,7 +9,7 @@ const projects  = [
     github: 'https://github.com/Bryandalton/Paint-your-mood'
   },
   {
-    img: '/images/Ripened-potatos-screenshot.JPG',
+    img: '/images/Ripened-potatos-screenshot.jpg',
     name: 'Ripened Potatoes',
     link: 'https://ripened-potatos.herokuapp.com/',
     github: 'https://github.com/Bryandalton/Ripened_Potatoes'
@@ -21,7 +21,7 @@ const projects  = [
     github: 'https://github.com/Bryandalton/Weather-service'
   },
   {
-    img: '/images/Bigfootbutton.JPG',
+    img: '/images/Bigfootbutton.jpg',
     name: 'Bigfoot Button',
     link: 'https://codepen.io/Iwritebadcode/full/mdXdxpz',
     github: 'https://codepen.io/Iwritebadcode/pen/mdXdxpz'
