@@ -19,7 +19,7 @@ N/A
 
 ![Portfolio-Screenshot](./public/images/React-Portfolio-Screenshot.JPG)
 
-Live Link: https://bryandalton.github.io/React-Portfolio/
+Live Link: https://bryan-dalton.netlify.app/
 
 Github: https://github.com/Bryandalton/React-Portfolio
 
